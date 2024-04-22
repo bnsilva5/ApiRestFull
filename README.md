@@ -9,29 +9,29 @@
 
 # EndPoints clase Clientes
 ### Consultar todos los clientes GET:
-**http://localhost/api/clientes**
+**http://localhost:8090/api/clientes**
 
 ### Crear un cliente POST:
-**http://localhost/api/cliente-new**
+**http://localhost:8090/api/cliente-new**
 
 ### Actualizar un cliente PUT:
-**http://localhost/api/cliente-new/clientes/{id}**
+**http://localhost:8090/api/cliente-new/clientes/{id}**
 
 ### Eliminar un cliente Delete:
-**http://localhost/api/cliente-new/clientes/{id}**
+**http://localhost:8090/api/cliente-new/clientes/{id}**
 
 
 # EndPoints clase Envios
 ### ver los envios por paginas GET:
-**http://localhost/api/envios/page/{page}**
+**http://localhost:8090/api/envios/page/{page}**
 
 ### crear un envio POST:
-**http://localhost/api/envio-new**
+**http://localhost:8090/api/envio-new**
 
 
 # EndPoints clase Plan de entrega Terrestre
 ### Crea un plan de entrega POST:
-**http://localhost/api/planEntregaTerrestre-new**
+**http://localhost:8090/api/planEntregaTerrestre-new**
 
 ### Ver los planes de entrega por paginas GET:
-**http://localhost/api/planEntregaTerrestre/page/{page}
+**http://localhost:8090/api/planEntregaTerrestre/page/{page}
