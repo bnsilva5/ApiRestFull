@@ -4,6 +4,9 @@
 ## Base de datos
 *PostgreSQL*
 
+## Para ejecutar el proyecto:
+*Actualizar la base de datos, el usuario y la contraseña en el application.properties segun esten configurados en el equipo*
+
 # EndPoints clase Clientes
 ### Consultar todos los clientes GET:
 **http://localhost/api/clientes**
