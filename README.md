@@ -15,15 +15,15 @@
 **http://localhost:8090/api/cliente-new**
 
 ### Actualizar un cliente PUT:
-**http://localhost:8090/api/cliente-new/clientes/{id}**
+**http://localhost:8090/api/cliente-new/clientes/0**
 
 ### Eliminar un cliente Delete:
-**http://localhost:8090/api/cliente-new/clientes/{id}**
+**http://localhost:8090/api/cliente-new/clientes/0**
 
 
 # EndPoints clase Envios
 ### ver los envios por paginas GET:
-**http://localhost:8090/api/envios/page/{page}**
+**http://localhost:8090/api/envios/page/0**
 
 ### crear un envio POST:
 **http://localhost:8090/api/envio-new**
@@ -34,4 +34,4 @@
 **http://localhost:8090/api/planEntregaTerrestre-new**
 
 ### Ver los planes de entrega por paginas GET:
-**http://localhost:8090/api/planEntregaTerrestre/page/{page}
+**http://localhost:8090/api/planEntregaTerrestre/page/0**
